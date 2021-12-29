@@ -1,0 +1,5 @@
+.idea
+credentials
+.temp
+*.sieve
+rcube_sieve_script.php
